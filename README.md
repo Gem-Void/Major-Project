@@ -1,53 +1,65 @@
-# Major-Project
-Sortify AI 📂🤖  Sortify AI is an intelligent file organization system that automatically scans, classifies, and sorts documents into appropriate categories using Machine Learning and OCR. It monitors folders in real time and organizes files without manual intervention.
+# Sortify AI 🤖📂
 
-Features
-📄 Automatic document classification using Machine Learning
-📁 Smart file organization into category folders
-👀 Real-time folder monitoring with Watchdog
-🔍 PDF text extraction
-📝 DOCX document reading
-📃 TXT file support
-🖼️ OCR-based image text extraction using Tesseract
-💾 SQLite database for document tracking
-🖥️ Simple PyQt6 desktop interface
-⚡ Automatic processing of both existing and newly added files
+Sortify AI is an intelligent file organization system that automatically scans, classifies, and sorts documents into appropriate categories using Machine Learning and OCR.
 
-Supported File Types
+## ✨ Features
 
-PDF (.pdf)
-Word Documents (.docx)
-Text Files (.txt)
-Images (.jpg, .png)
-Categories
+- Automatic document classification using Machine Learning
+- Smart file organization into category folders
+- Real-time folder monitoring with Watchdog
+- PDF text extraction
+- DOCX document reading
+- TXT file support
+- OCR-based image text extraction using Tesseract
+- SQLite database for document tracking
+- PyQt6 desktop interface
 
-Currently supports automatic classification into categories such as:
+## 📄 Supported File Types
 
-Finance
-Education
-Shopping
-Personal
-Legal
+- PDF (.pdf)
+- DOCX (.docx)
+- TXT (.txt)
+- JPG (.jpg)
+- PNG (.png)
 
-with the ability to expand and train custom categories.
+## 🏷 Categories
 
-Tech Stack
-Python
-Scikit-Learn
-TF-IDF Vectorization
-Logistic Regression
-SQLite
-PyQt6
-Watchdog
-PDFPlumber
-Tesseract OCR
-Pillow
+- Finance
+- Education
+- Shopping
+- Personal
+- Legal
 
-How It Works
+## 🛠 Tech Stack
 
-User selects a folder to monitor.
-Sortify AI scans existing files.
-Text is extracted from documents and images.
-The trained ML model predicts the document category.
-Files are automatically moved into category-specific folders.
-Document metadata is stored in SQLite for tracking and future retrieval.
+- Python
+- Scikit-Learn
+- TF-IDF
+- Logistic Regression
+- SQLite
+- PyQt6
+- Watchdog
+- PDFPlumber
+- Tesseract OCR
+- Pillow
+
+## ⚙️ How It Works
+
+1. User selects a folder.
+2. Sortify scans existing files.
+3. Text is extracted from documents.
+4. Machine Learning model predicts category.
+5. File is moved into the appropriate folder.
+6. Metadata is stored in SQLite.
+
+## 🚀 Future Improvements
+
+- Deep Learning classification
+- Semantic search
+- Duplicate detection
+- Cloud integration
+- Auto-renaming of files
+
+## 👨‍💻 Author
+
+Aditya Kaushik
