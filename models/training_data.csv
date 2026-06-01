@@ -1,0 +1,49 @@
+text,label
+bank transaction statement finance payment,Finance
+electricity bill payment income invoice,Finance
+tax return form 1040 financial,Finance
+stock portfolio investment report,Finance
+amazon order delivery purchase,Shopping
+online shopping receipt amazon order,Shopping
+grocery bill walmart supermarket checkout,Shopping
+flipkart order invoice electronics shipping,Shopping
+lecture notes university assignment,Education
+machine learning exam syllabus,Education
+python programming tutorial script,Education
+research paper thesis bibliography,Education
+resume curriculum vitae experience,Personal
+job application resume Pan card Aadhar card profile,Personal
+birth certificate identification passport copy,Personal
+family vacation photos gallery album,Personal
+legal contract agreement terms,Legal
+court legal document agreement,Legal
+property deed lease rental agreement,Legal
+non disclosure agreement nda signature,Legal
+blood test report medical prescription,Healthcare
+hospital discharge summary health record,Healthcare
+vaccination certificate covid insurance claim,Healthcare
+mri scan radiology report doctor,Healthcare
+meeting minutes project roadmap sprint,Work
+quarterly business review qbr presentation,Work
+employee handbook policy benefits,Work
+product requirement document prd spec,Work
+movie ticket cinema booking voucher,Entertainment
+spotify playlist music lyrics audio,Entertainment
+game save file configuration settings,Entertainment
+netflix subscription invoice streaming,Entertainment
+permanent account number government of india pan card,General
+aadhaar card unique identification authority india,General
+identity card government id proof,General
+passport government identity document,General
+pan card income tax department india,General
+rto receipt vehicle registration payment,Finance
+government receipt payment challan,Finance
+traffic challan payment receipt,Finance
+income tax payment receipt government,Finance
+vehicle registration tax receipt rto,Finance
+gst invoice tax payment receipt,Finance
+official payment receipt government department,Finance
+municipal tax receipt payment,Finance
+amazon order delivery purchase receipt,Shopping
+flipkart order invoice product delivery,Shopping
+online shopping purchase order invoice,Shopping

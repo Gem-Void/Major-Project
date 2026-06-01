@@ -1,0 +1,7 @@
+{
+ "Finance": ["bank","invoice","transaction","payment","bill"],
+ "Education": ["assignment","exam","lecture","notes","university"],
+ "Shopping": ["amazon","order","purchase","delivery"],
+ "Personal": ["resume","cv","profile"],
+ "Legal": ["contract","agreement"]
+}
