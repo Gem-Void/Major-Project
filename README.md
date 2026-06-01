@@ -12,7 +12,9 @@ Features
 💾 SQLite database for document tracking
 🖥️ Simple PyQt6 desktop interface
 ⚡ Automatic processing of both existing and newly added files
+
 Supported File Types
+
 PDF (.pdf)
 Word Documents (.docx)
 Text Files (.txt)
@@ -40,7 +42,9 @@ Watchdog
 PDFPlumber
 Tesseract OCR
 Pillow
+
 How It Works
+
 User selects a folder to monitor.
 Sortify AI scans existing files.
 Text is extracted from documents and images.
