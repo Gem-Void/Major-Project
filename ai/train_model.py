@@ -7,7 +7,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score
 
 # Load dataset
-data = pd.read_csv("../dataset/sortify_ai_training_dataset.csv")
+data = pd.read_csv("dataset/sortify_ai_training_dataset.csv")
 
 # Remove empty rows
 data.dropna(inplace=True)
@@ -44,8 +44,8 @@ accuracy = accuracy_score(y_test, predictions)
 print("Accuracy:", accuracy)
 
 # Save model
-joblib.dump(model, "../models/model.pkl")
-joblib.dump(vectorizer, "../models/vectorizer.pkl")
+joblib.dump(model, "models/model.pkl")
+joblib.dump(vectorizer, "models/vectorizer.pkl")
 
 
 print("Model trained successfully")
