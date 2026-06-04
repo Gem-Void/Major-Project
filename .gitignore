@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# Database
+*.db
+
+# Model files
+*.pkl
+*.safetensors
+*.pt
+*.pth
+*.bin
+
+# HuggingFace checkpoints
+models/checkpoint-*/
+
+# Test files
+files_to_scan/
+
+# OS files
+.DS_Store
+Thumbs.db
