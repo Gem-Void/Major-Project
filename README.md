@@ -2,6 +2,14 @@
 
 Sortify AI is an intelligent file organization system that automatically scans, classifies, and sorts documents into appropriate categories using Machine Learning and OCR.
 
+## 🎯 Objectives
+
+1. To develop a background monitoring service that detects new file events in real-time without user action.
+
+2. To implement Tesseract OCR and Natural Language Processing (NLP) locally to extract semantic meaning from diverse file formats.
+
+3. To develop an AI-driven classification engine that automatically Understand files meaningfully and moves them to a logical directory structure.
+
 ## ✨ Features
 
 - Automatic document classification using Machine Learning
